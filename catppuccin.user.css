@@ -171,7 +171,8 @@
       background-color: @surface0;
     }
 	  
-	  .bili-dyn-card-reserve__card {
+	  .bili-dyn-card-reserve__card,
+	  .bili-dyn-card-goods__wrap {
 		  background-color: @overlay0;
 	  }
 
