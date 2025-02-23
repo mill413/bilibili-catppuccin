@@ -170,6 +170,10 @@
     .next-button .switch-button::after {
       background-color: @surface0;
     }
+	  
+	  .bili-dyn-card-reserve__card {
+		  background-color: @overlay0;
+	  }
 
     #app .bg {
       background-image: none !important;
