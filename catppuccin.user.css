@@ -102,8 +102,8 @@
     --text_white: @base;
     --graph_icon: @text;
     --graph_bg_thin: @surface0;
-    --graph_bg_regular: @surface0;
-    --graph_bg_thick: hoverColor(@surface0)
+    --graph_bg_regular: @surface1;
+    --graph_bg_thick: @surface2;
     /* borders */
     --Ga1: @overlay0; // !!! Non-semantic naming
     --line_light: @overlay0;
