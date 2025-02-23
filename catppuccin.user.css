@@ -171,6 +171,11 @@
       background-color: @surface0;
     }
 
+    #app .bg {
+      background-image: none !important;
+      background-color: @surface0;
+    }
+
     & when (@lookup = latte) {
     }
     & when not (@lookup = latte) {
