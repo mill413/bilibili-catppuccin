@@ -183,7 +183,7 @@
 
     /* message page */
     .send-btn {
-      background: var(--brand_blue);
+      background: @accent-color;
     }
     body {
       background: @surface0;
@@ -204,7 +204,7 @@
     }
     .message-list,
     .send-box {
-      background-color: @surface1;
+      background-color: fade(@mantle, 60%);
     }
     .notify-wrapper .notify-text {
       background-color: @surface2;
